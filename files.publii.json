@@ -107,7 +107,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "64613fe18ac96949a8e6c0f2f7ded4f9"
+        "md5": "b26a54e7b2c1f890c1c261480a7fd0c3"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "5bc2c42060a5b488b6b102fc97d4001d"
+        "md5": "fa4c7c35b54e9fe4e12e931aeebffe0c"
     },
     {
         "path": "contact-us",
@@ -162,17 +162,17 @@
     {
         "path": "/elegant-lighting-ideas-for-a-modern-and-luxurious-home/index.html",
         "type": "file",
-        "md5": "d0edd6faec8cab149daa119c3676e8e7"
+        "md5": "c9efa5ff9a4371262dd53f9a438719ac"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e17a229cdc8df78652d66900187b7be4"
+        "md5": "4d4dcb225a83e028bac34c0f1bc19f51"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "401c242b7eb0b84db4858fd9406f0c8a"
+        "md5": "e8711f46d8f23073293d259ace0fe7f2"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -187,7 +187,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c64d2b2ffad42f99e4e25e5f53ed5794"
+        "md5": "fce3eac7140ab0526328406870a64a2f"
     },
     {
         "path": "italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors",
@@ -735,6 +735,81 @@
         "md5": "927b7c26248b19b6614d70efa2092470"
     },
     {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-10-23T004541.999.jpg",
+        "type": "file",
+        "md5": "68b48ccd6a0fd687dd36b500cae85619"
+    },
+    {
+        "path": "/media/posts/17/images-2026-10-23T004549.350.jpg",
+        "type": "file",
+        "md5": "ace0e8e3163010f3903c0c35d121144b"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-lg.jpg",
+        "type": "file",
+        "md5": "75ee1fdf942205ac1e2620de9b9b8592"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-md.jpg",
+        "type": "file",
+        "md5": "75ee1fdf942205ac1e2620de9b9b8592"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-sm.jpg",
+        "type": "file",
+        "md5": "75ee1fdf942205ac1e2620de9b9b8592"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-xs.jpg",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-2xl.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-lg.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-md.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-sm.jpg",
+        "type": "file",
+        "md5": "f475d57399b6a31dfc65c03e2e2a5a81"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-sm2.jpg",
+        "type": "file",
+        "md5": "d8db4dff7a74345e83137bb0486fe24f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-xl.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-xs.jpg",
+        "type": "file",
+        "md5": "0bde50215e2c15bc019ed493c78af065"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1217,7 +1292,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b188a8df5f614c4c854f7fadf8de7583"
+        "md5": "7d10880c53f6f8354143bf19a7a8575a"
     },
     {
         "path": "privacy-policy",
@@ -1230,6 +1305,16 @@
         "md5": "bbb6f6b85426c78b6d9400d9332c212c"
     },
     {
+        "path": "recessed-led-coves-elegant-lighting-ideas-for-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recessed-led-coves-elegant-lighting-ideas-for-modern-interiors/index.html",
+        "type": "file",
+        "md5": "d37985fd0ee70127384f3691e16fc4c0"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "83ba3e8b9a77890d6fe0ddd81bbd952b"
@@ -1237,7 +1322,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "336ae8cb5607d8a43b7a002c616d2aa4"
+        "md5": "afe2df91089d9f24b0e2bc097e9fd768"
     },
     {
         "path": "sitemap.xsl",
@@ -1252,7 +1337,7 @@
     {
         "path": "/solid-oak-parquet-timeless-elegance-and-lasting-durability-for-your-home/index.html",
         "type": "file",
-        "md5": "b8acc46821a199ae9d0c2296d1fd4c1d"
+        "md5": "a286f2770946c4ba0ace56ca4b3a7ba7"
     },
     {
         "path": "statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior",
@@ -1262,7 +1347,7 @@
     {
         "path": "/statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior/index.html",
         "type": "file",
-        "md5": "6a8aea3396c84b1c90e58c17fe759c50"
+        "md5": "1bde129d38fd58db08a09e8445a9e4da"
     },
     {
         "path": "tags",
@@ -1347,7 +1432,7 @@
     {
         "path": "/tags/hidden-lighting-and-chandeliers/index.html",
         "type": "file",
-        "md5": "622e1af26dab7d5ef86d03c1718cd777"
+        "md5": "dd0e59a8cbc49bbc53caaf7cb593753a"
     },
     {
         "path": "tags/high-ceiling-styling",
@@ -1362,7 +1447,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0a9fec3e309f16da6f36e01497a0687c"
+        "md5": "d8e79a741838a196a1424f6689e0b87f"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -1392,7 +1477,7 @@
     {
         "path": "/tags/recessed-led-coves/index.html",
         "type": "file",
-        "md5": "7e9cd36c346d4a947d8e2da77737d585"
+        "md5": "1ef66de8b7f1ccc2f83d64d5b8e4be6f"
     },
     {
         "path": "tags/solid-oak-parquet",
@@ -1452,7 +1537,7 @@
     {
         "path": "/timeless-elegance-for-luxurious-interior-design/index.html",
         "type": "file",
-        "md5": "ff9485842cbad45b95e95184dc37dfef"
+        "md5": "e188987e1bdd008a437e7a85284cdac5"
     },
     {
         "path": "timeless-flooring-for-elegant-and-stylish-interiors",
