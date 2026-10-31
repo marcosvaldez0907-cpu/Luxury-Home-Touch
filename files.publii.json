@@ -12,7 +12,7 @@
     {
         "path": "/a-timeless-flooring-choice-for-elegant-interiors/index.html",
         "type": "file",
-        "md5": "0633f71724b6d9dfc333e6c20282a053"
+        "md5": "79dfda54a15d1fd8e391794da603e4cb"
     },
     {
         "path": "about-us",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "a931cd039a99060f1a862ee4a9797259"
+        "md5": "38a9a4327c318e1088f181a6c33d7f41"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "b286906c425abc3ff1870cb1f3d6e14a"
+        "md5": "7ae304fa07060c076b942c8816550d7a"
     },
     {
         "path": "contact-us",
@@ -177,12 +177,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "aa05117803a495cc498f07bff636ba89"
+        "md5": "ef1ae872b9028686cef2918ca3cda6b8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4bcae4417a4c188c45da1d3da09005fd"
+        "md5": "5274f17e8b01a5cffd43c35873f1b76f"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -197,7 +197,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3031f581c0472872dcda56f526da2ac0"
+        "md5": "87c97fd30b697c86a50637c645225a44"
     },
     {
         "path": "italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors",
@@ -207,7 +207,7 @@
     {
         "path": "/italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "9334312a70ebd85ebe4be820adf861d9"
+        "md5": "52d0848a365f38f46a3556a09d25eca0"
     },
     {
         "path": "italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors",
@@ -217,7 +217,7 @@
     {
         "path": "/italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors/index.html",
         "type": "file",
-        "md5": "327ebc8e9985ea3d335b56d09f5a8425"
+        "md5": "698846b367ffbae186beb85f40cccc5a"
     },
     {
         "path": "media",
@@ -1055,6 +1055,81 @@
         "md5": "42d2cc4eb9cf3aad5771b07380710711"
     },
     {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-31T210100.781.jpg",
+        "type": "file",
+        "md5": "bd467b020545f983d74fd22b87345fb1"
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-31T210105.737.jpg",
+        "type": "file",
+        "md5": "3824055bbfe27d6afc00551806a8e05b"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-lg.jpg",
+        "type": "file",
+        "md5": "c3d0fbb048ef45548db34901af4cf26a"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-md.jpg",
+        "type": "file",
+        "md5": "c3d0fbb048ef45548db34901af4cf26a"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-sm.jpg",
+        "type": "file",
+        "md5": "0b4bdf2e019ce29dcb478c510e1cf2ab"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-xs.jpg",
+        "type": "file",
+        "md5": "f72ca44db3f95523f7ca9d84f05e6611"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-2xl.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-lg.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-md.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-sm.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-sm2.jpg",
+        "type": "file",
+        "md5": "420f084db0242deae936abaa9032f6fa"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-xl.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-xs.jpg",
+        "type": "file",
+        "md5": "cd206c38c51300320954e9cdf78aecf5"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1537,7 +1612,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "aab9736b2bf0d2149f63f18699ac1934"
+        "md5": "543f77fde7bb9e1b9a92251f3d1077ef"
     },
     {
         "path": "privacy-policy",
@@ -1567,7 +1642,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e189884091f89a29bfa5b3d579601218"
+        "md5": "fe196c4c23cc24b8f9ebcb64689bd479"
     },
     {
         "path": "sitemap.xsl",
@@ -1582,7 +1657,7 @@
     {
         "path": "/solid-oak-parquet-timeless-elegance-and-lasting-durability-for-your-home/index.html",
         "type": "file",
-        "md5": "31d369a491de5dd2c5a3b90f4448a0d9"
+        "md5": "63be0995eca939c398c5b2484332875b"
     },
     {
         "path": "statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior",
@@ -1647,7 +1722,7 @@
     {
         "path": "/tags/flooring-and-parquet/index.html",
         "type": "file",
-        "md5": "25850cbe3cbaac45b9adce707b1ab449"
+        "md5": "58e1762249878dbb3fd29166c2eb1785"
     },
     {
         "path": "tags/grand-foyers",
@@ -1692,7 +1767,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "685d3de71c96bac6ab0bb4026bc00569"
+        "md5": "06f7c616ad3d710b9f5b4d55426ffc79"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -1702,7 +1777,7 @@
     {
         "path": "/tags/italian-marble-tiles/index.html",
         "type": "file",
-        "md5": "376f06d6e0e1dd3ea99fd886bee370a1"
+        "md5": "76eee04f59cbab81719081ffc4ade9d1"
     },
     {
         "path": "tags/luxury-wall-panels",
@@ -1785,6 +1860,16 @@
         "md5": "f331715f808978ca9f69dac1db24a1af"
     },
     {
+        "path": "timeless-elegance-and-luxury-for-beautiful-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-and-luxury-for-beautiful-interiors/index.html",
+        "type": "file",
+        "md5": "530b761c16b27f689e4235c170e3294d"
+    },
+    {
         "path": "timeless-elegance-for-luxurious-interior-design",
         "type": "directory",
         "md5": false
@@ -1802,7 +1887,7 @@
     {
         "path": "/timeless-flooring-for-elegant-and-stylish-interiors/index.html",
         "type": "file",
-        "md5": "fe410ab281f0437c25672d675f59be1d"
+        "md5": "45d8abf11ab6bbf4aff5ada0660791d2"
     },
     {
         "path": "timeless-patterns-for-elegant-and-modern-interiors",
@@ -1812,7 +1897,7 @@
     {
         "path": "/timeless-patterns-for-elegant-and-modern-interiors/index.html",
         "type": "file",
-        "md5": "1a13f4ab5e2f7414775e7b4176bab4ce"
+        "md5": "1241ad71559e5d3c628ec0f38bb2c82f"
     },
     {
         "path": "vintage-artifacts-timeless-treasures-that-bring-history-into-your-home",
