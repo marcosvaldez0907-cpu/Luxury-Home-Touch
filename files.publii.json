@@ -117,7 +117,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "38a9a4327c318e1088f181a6c33d7f41"
+        "md5": "22f6698954584db7435ed8da1c7725cd"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "7ae304fa07060c076b942c8816550d7a"
+        "md5": "5ca23ad80bd8bda80093953a24ee773b"
     },
     {
         "path": "contact-us",
@@ -152,7 +152,17 @@
     {
         "path": "/creating-an-elegant-and-welcoming-first-impression/index.html",
         "type": "file",
-        "md5": "b899733d1e5f2142b54acc7cc0abcd47"
+        "md5": "2eb7e95387dcb57d028fc4888c9e0876"
+    },
+    {
+        "path": "creative-ideas-to-make-your-interior-feel-elegant-and-inviting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-ideas-to-make-your-interior-feel-elegant-and-inviting/index.html",
+        "type": "file",
+        "md5": "d12101e9516b7cd4ca695f4a4cba86cd"
     },
     {
         "path": "elegant-design-ideas-for-a-sophisticated-interior",
@@ -162,7 +172,7 @@
     {
         "path": "/elegant-design-ideas-for-a-sophisticated-interior/index.html",
         "type": "file",
-        "md5": "8c2fb3c9c5b2eedf552281f9194f214a"
+        "md5": "bd4ed737f282cd9ba4971554e2664f14"
     },
     {
         "path": "elegant-lighting-ideas-for-a-modern-and-luxurious-home",
@@ -177,12 +187,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ef1ae872b9028686cef2918ca3cda6b8"
+        "md5": "2a9652eb17519589850e7537919ef8f8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5274f17e8b01a5cffd43c35873f1b76f"
+        "md5": "a1e9b7b28f46bb5c101a0f16354b1a1f"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -192,12 +202,12 @@
     {
         "path": "/high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home/index.html",
         "type": "file",
-        "md5": "5aae9953435c9d6cc5e9d83dbec1c4de"
+        "md5": "c61ea75ffd43a0b76f3a402f04b292b1"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "87c97fd30b697c86a50637c645225a44"
+        "md5": "6938cf1a97fd3b738a02bb9bdecc7578"
     },
     {
         "path": "italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors",
@@ -1130,6 +1140,81 @@
         "md5": "cd206c38c51300320954e9cdf78aecf5"
     },
     {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-10.jpg",
+        "type": "file",
+        "md5": "6243806721550b572e9d3aae36f9e2b0"
+    },
+    {
+        "path": "/media/posts/22/images-11.jpg",
+        "type": "file",
+        "md5": "94b9800ffb082d01e55f564643496752"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-lg.jpg",
+        "type": "file",
+        "md5": "49f05fc2dba52ae9fd949427f84dd0d6"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-md.jpg",
+        "type": "file",
+        "md5": "49f05fc2dba52ae9fd949427f84dd0d6"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-sm.jpg",
+        "type": "file",
+        "md5": "5e2d7690e3f00a2751b57c13f5765443"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-xs.jpg",
+        "type": "file",
+        "md5": "83f3b8e2534771363430857c7b2e2eab"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-2xl.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-lg.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-md.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-sm.jpg",
+        "type": "file",
+        "md5": "fb49bd3ce146cea31f4a4b4c70e6aeae"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-sm2.jpg",
+        "type": "file",
+        "md5": "8f1fb8c106b378ebf2fd6465cd8d5599"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-xl.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-xs.jpg",
+        "type": "file",
+        "md5": "26fca66b1340f686a437df91b69c9e2e"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1612,7 +1697,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "543f77fde7bb9e1b9a92251f3d1077ef"
+        "md5": "34b72ef3f7107fb5f9315e8883f6a8c1"
     },
     {
         "path": "privacy-policy",
@@ -1642,7 +1727,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "fe196c4c23cc24b8f9ebcb64689bd479"
+        "md5": "8f5133c4055a9c16e2927ca2a986c991"
     },
     {
         "path": "sitemap.xsl",
@@ -1762,12 +1847,12 @@
     {
         "path": "/tags/high-ceiling-styling/index.html",
         "type": "file",
-        "md5": "6abd8c76b9c83041d77b4b135ec19958"
+        "md5": "c84f6c4989bf25dc154136b68e81bd66"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "06f7c616ad3d710b9f5b4d55426ffc79"
+        "md5": "62f7a9077446e2d67bad7f25c834a370"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -1827,7 +1912,7 @@
     {
         "path": "/tags/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "680b42203e7570fec70f12c84607b343"
+        "md5": "9371d3b36113698154ee0894d13fe8c3"
     },
     {
         "path": "tags/vintage-artifacts",
@@ -1867,7 +1952,7 @@
     {
         "path": "/timeless-elegance-and-luxury-for-beautiful-interiors/index.html",
         "type": "file",
-        "md5": "530b761c16b27f689e4235c170e3294d"
+        "md5": "2c73d7bb63ccf318dffd650f647e9d56"
     },
     {
         "path": "timeless-elegance-for-luxurious-interior-design",
