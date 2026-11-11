@@ -117,7 +117,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "22f6698954584db7435ed8da1c7725cd"
+        "md5": "0714bbc5513e8fa01474eedfdddc257c"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "5ca23ad80bd8bda80093953a24ee773b"
+        "md5": "8454f6c7ab4d9b04c4f81a726325fd6d"
     },
     {
         "path": "contact-us",
@@ -152,7 +152,17 @@
     {
         "path": "/creating-an-elegant-and-welcoming-first-impression/index.html",
         "type": "file",
-        "md5": "2eb7e95387dcb57d028fc4888c9e0876"
+        "md5": "454e99684282770a64e14a3cb184b5bf"
+    },
+    {
+        "path": "creating-an-impressive-entrance-with-elegant-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-impressive-entrance-with-elegant-interior-design/index.html",
+        "type": "file",
+        "md5": "47a02aa895110cb28778b9c97e8468c3"
     },
     {
         "path": "creative-ideas-to-make-your-interior-feel-elegant-and-inviting",
@@ -162,7 +172,7 @@
     {
         "path": "/creative-ideas-to-make-your-interior-feel-elegant-and-inviting/index.html",
         "type": "file",
-        "md5": "d12101e9516b7cd4ca695f4a4cba86cd"
+        "md5": "2125d26086140fd105223179b8fd2a7a"
     },
     {
         "path": "elegant-design-ideas-for-a-sophisticated-interior",
@@ -172,7 +182,7 @@
     {
         "path": "/elegant-design-ideas-for-a-sophisticated-interior/index.html",
         "type": "file",
-        "md5": "bd4ed737f282cd9ba4971554e2664f14"
+        "md5": "a537a672c78650232a4c8b28e6ecb5e0"
     },
     {
         "path": "elegant-lighting-ideas-for-a-modern-and-luxurious-home",
@@ -187,12 +197,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2a9652eb17519589850e7537919ef8f8"
+        "md5": "958255984362337d31922f2eedc98721"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a1e9b7b28f46bb5c101a0f16354b1a1f"
+        "md5": "8d9f0911b79913574ab4da1d73413cf3"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -202,12 +212,12 @@
     {
         "path": "/high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home/index.html",
         "type": "file",
-        "md5": "c61ea75ffd43a0b76f3a402f04b292b1"
+        "md5": "ed7a82af68c8ac4113c18db7e14a2a09"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6938cf1a97fd3b738a02bb9bdecc7578"
+        "md5": "ace46ef2a559186574e1cab50247628d"
     },
     {
         "path": "italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors",
@@ -1215,6 +1225,81 @@
         "md5": "26fca66b1340f686a437df91b69c9e2e"
     },
     {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-11T093153.209.jpg",
+        "type": "file",
+        "md5": "a2aad39997f370f52a8015a5289b604f"
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-11T093158.697.jpg",
+        "type": "file",
+        "md5": "e7baa38960997da2dea3199b02dd2e01"
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-2xl.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-lg.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-md.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-sm.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-sm2.jpg",
+        "type": "file",
+        "md5": "faff4f44cd73c15f3767256c9272e455"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-xl.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-xs.jpg",
+        "type": "file",
+        "md5": "a3ea8f188e96c9bc42f25071b7ad6aa9"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-lg.jpg",
+        "type": "file",
+        "md5": "49bc6e02bada8c18d86df055cf4d6677"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-md.jpg",
+        "type": "file",
+        "md5": "49bc6e02bada8c18d86df055cf4d6677"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-sm.jpg",
+        "type": "file",
+        "md5": "49bc6e02bada8c18d86df055cf4d6677"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-xs.jpg",
+        "type": "file",
+        "md5": "4724c289da099e130b17507a27699862"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1697,7 +1782,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "34b72ef3f7107fb5f9315e8883f6a8c1"
+        "md5": "ad89463808162ecdb3798604f139aee5"
     },
     {
         "path": "privacy-policy",
@@ -1727,7 +1812,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "8f5133c4055a9c16e2927ca2a986c991"
+        "md5": "a3681056a5f66d8e44ed35753ae90041"
     },
     {
         "path": "sitemap.xsl",
@@ -1817,7 +1902,7 @@
     {
         "path": "/tags/grand-foyers/index.html",
         "type": "file",
-        "md5": "b4f51c305091c6968d07322675aa2e6b"
+        "md5": "7f5763b311f02221f51abb5f0ef6b105"
     },
     {
         "path": "tags/herringbone-flooring",
@@ -1852,7 +1937,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "62f7a9077446e2d67bad7f25c834a370"
+        "md5": "e6f8514a7fd3dd1f914aa93f043e0965"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -1912,7 +1997,7 @@
     {
         "path": "/tags/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "9371d3b36113698154ee0894d13fe8c3"
+        "md5": "88142d2edde892514f14609aa6c5e079"
     },
     {
         "path": "tags/vintage-artifacts",
