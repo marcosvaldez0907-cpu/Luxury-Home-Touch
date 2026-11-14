@@ -117,7 +117,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "0714bbc5513e8fa01474eedfdddc257c"
+        "md5": "d4e4e9dc870f9861d170c7260fad5e8d"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "8454f6c7ab4d9b04c4f81a726325fd6d"
+        "md5": "4eefb6f9ac62bd835e0d06fa943473a3"
     },
     {
         "path": "contact-us",
@@ -162,7 +162,7 @@
     {
         "path": "/creating-an-impressive-entrance-with-elegant-interior-design/index.html",
         "type": "file",
-        "md5": "47a02aa895110cb28778b9c97e8468c3"
+        "md5": "92e64dcf4235fa27e939bb06b28ddc21"
     },
     {
         "path": "creative-ideas-to-make-your-interior-feel-elegant-and-inviting",
@@ -192,17 +192,27 @@
     {
         "path": "/elegant-lighting-ideas-for-a-modern-and-luxurious-home/index.html",
         "type": "file",
-        "md5": "00515e730c20c2fed17f7f35f753a42e"
+        "md5": "9462129af49fe5e17271a783f9e2ed66"
+    },
+    {
+        "path": "elegant-lighting-ideas-to-bring-luxury-and-sophistication-into-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-lighting-ideas-to-bring-luxury-and-sophistication-into-your-home/index.html",
+        "type": "file",
+        "md5": "31081076160c1bc33c0d9fcd09f4d73c"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "958255984362337d31922f2eedc98721"
+        "md5": "c29e6b5a681e5761b08c3ca18b20f2d0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8d9f0911b79913574ab4da1d73413cf3"
+        "md5": "c7b37abcdfd4f9646531080d3dbf4d78"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -217,7 +227,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ace46ef2a559186574e1cab50247628d"
+        "md5": "193c53bb89f5427ab65e3de24bb7fb00"
     },
     {
         "path": "italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors",
@@ -1300,6 +1310,81 @@
         "md5": "4724c289da099e130b17507a27699862"
     },
     {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/images-2026-11-14T100833.081.jpg",
+        "type": "file",
+        "md5": "c3c0597b24d025f21cacddd1bdc1dcc0"
+    },
+    {
+        "path": "/media/posts/24/images-2026-11-14T100838.187.jpg",
+        "type": "file",
+        "md5": "a452a01772bf60f9f1b5fb9810b025c7"
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-lg.jpg",
+        "type": "file",
+        "md5": "f7dc1c4132f718d1f625be3142ea0960"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-md.jpg",
+        "type": "file",
+        "md5": "f7dc1c4132f718d1f625be3142ea0960"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-sm.jpg",
+        "type": "file",
+        "md5": "f7dc1c4132f718d1f625be3142ea0960"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-xs.jpg",
+        "type": "file",
+        "md5": "541ad5ad6d14cd41896dd0ddc7163562"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-2xl.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-lg.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-md.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-sm.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-sm2.jpg",
+        "type": "file",
+        "md5": "f581fffc19615a4182dd6e54d7a7170b"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-xl.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-xs.jpg",
+        "type": "file",
+        "md5": "c833268696051ce68cbea5f2a16c23b8"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1782,7 +1867,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "ad89463808162ecdb3798604f139aee5"
+        "md5": "b0691c4780f899f6d4017a0b1fe9e73f"
     },
     {
         "path": "privacy-policy",
@@ -1802,7 +1887,7 @@
     {
         "path": "/recessed-led-coves-elegant-lighting-ideas-for-modern-interiors/index.html",
         "type": "file",
-        "md5": "c083fd40472248804722519e57794e4e"
+        "md5": "8942ada591455df3935f870f2e661a58"
     },
     {
         "path": "robots.txt",
@@ -1812,7 +1897,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a3681056a5f66d8e44ed35753ae90041"
+        "md5": "2d99e2086ce675bf3c4f5ce4dfc34cc1"
     },
     {
         "path": "sitemap.xsl",
@@ -1837,7 +1922,7 @@
     {
         "path": "/statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior/index.html",
         "type": "file",
-        "md5": "1bde129d38fd58db08a09e8445a9e4da"
+        "md5": "5c24edb7d61f52ec3c25689f5db3ab7e"
     },
     {
         "path": "tags",
@@ -1872,7 +1957,7 @@
     {
         "path": "/tags/crystal-chandeliers/index.html",
         "type": "file",
-        "md5": "5a1c4fc0baf2df8ce341547f4d3006a3"
+        "md5": "29e755de14160d524947f85da2efd2e0"
     },
     {
         "path": "tags/doors-and-artistic-antiques",
@@ -1922,7 +2007,7 @@
     {
         "path": "/tags/hidden-lighting-and-chandeliers/index.html",
         "type": "file",
-        "md5": "77d6607cf5904bb1553b945d8c8735b9"
+        "md5": "1d4a3ffa4cdd08ad89995feaf2b63931"
     },
     {
         "path": "tags/high-ceiling-styling",
@@ -1937,7 +2022,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e6f8514a7fd3dd1f914aa93f043e0965"
+        "md5": "9f95883484209c7fe64f9f244cf945d3"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -2027,7 +2112,7 @@
     {
         "path": "/timeless-elegance-and-brilliant-illumination-for-every-home/index.html",
         "type": "file",
-        "md5": "f331715f808978ca9f69dac1db24a1af"
+        "md5": "bd675d3a5b4b0959919003683b268f5d"
     },
     {
         "path": "timeless-elegance-and-luxury-for-beautiful-interiors",
