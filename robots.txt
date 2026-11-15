@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://outdoor-garden-dog.pages.dev/sitemap.xml
